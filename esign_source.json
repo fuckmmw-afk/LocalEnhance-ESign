@@ -5,13 +5,13 @@
   "apps": [
     {
       "name": "LocalEnhance",
-      "bundleIdentifier": "com.localenhance.app",
+      "bundleIdentifier": "app.cranberry7680.uva1336",
       "version": "1.0",
       "buildVersion": "1",
-      "size": 363007,
-      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-cd6b892.ipa",
-      "sha256": "92c8ebcdd7be195d6f4d2cba0c1b073cd8f15fd8dbc7b2889042f3d86bb1797d",
-      "localizedDescription": "Локальная обработка фотографий через Photos Editing Extension. Модели загружаются отдельно и фотографии не отправляются на сервер.",
+      "size": 269920,
+      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-68ffbb7.ipa",
+      "sha256": "536f97aae80c9f57ac4a981d99b537c39a89feaca2c1f5d99ee6644467d1f341",
+      "localizedDescription": "Локальная обработка фотографий в том же PHAsset через недеструктивный Photos workflow. Модели загружаются отдельно и фотографии не отправляются на сервер.",
       "developerName": "LocalEnhance",
       "subtitle": "Локальная обработка фото",
       "iconURL": "",
