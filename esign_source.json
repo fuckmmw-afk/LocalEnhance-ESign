@@ -15,7 +15,8 @@
       "developerName": "LocalEnhance",
       "subtitle": "Локальная обработка фото",
       "iconURL": "",
-      "category": "photo-video"
+      "category": "photo-video",
+      "sourceCommit": "090de1241d4b5d9bff944ecb846735bf57ad31b8"
     }
   ]
 }
