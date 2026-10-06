@@ -9,14 +9,14 @@
       "version": "1.0",
       "buildVersion": "1",
       "size": 328094,
-      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-a4ccba0.ipa",
-      "sha256": "0187e98fecba7a29289b04504611be31b9aae63346bf0c20be5f541692a3dc62",
+      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-9d01938.ipa",
+      "sha256": "8995c5741bc3c94867d2dcfd9f291da88afe11e2f148fadd7be79ddc7d8ed420",
       "localizedDescription": "Локальная обработка фотографий в том же PHAsset через недеструктивный Photos workflow. Модели загружаются отдельно и фотографии не отправляются на сервер.",
       "developerName": "LocalEnhance",
       "subtitle": "Локальная обработка фото",
       "iconURL": "",
       "category": "photo-video",
-      "sourceCommit": "a4ccba0"
+      "sourceCommit": "9d01938"
     }
   ]
 }
