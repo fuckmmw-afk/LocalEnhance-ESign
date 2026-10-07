@@ -8,15 +8,15 @@
       "bundleIdentifier": "app.cranberry7680.uva1336",
       "version": "1.0",
       "buildVersion": "1",
-      "size": 369450,
-      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-6582a0e.ipa",
-      "sha256": "7c1574a9df0cf30c88ee4b98aa3bc748aa249dcfb4c0768f95a1dc185b01172d",
+      "size": 370346,
+      "downloadURL": "https://github.com/fuckmmw-afk/LocalEnhance-ESign/raw/main/ipas/LocalEnhance-1.0-1-unsigned-8fa84e3.ipa",
+      "sha256": "367ed8a7920e3bba84114788505d5832c0f3511560d02d6a1083a7cd7ba322b8",
       "localizedDescription": "Локальная обработка фотографий в том же PHAsset через недеструктивный Photos workflow. Модели загружаются отдельно и фотографии не отправляются на сервер.",
       "developerName": "LocalEnhance",
       "subtitle": "Локальная обработка фото",
       "iconURL": "",
       "category": "photo-video",
-      "sourceCommit": "6582a0e"
+      "sourceCommit": "8fa84e3"
     }
   ]
 }
